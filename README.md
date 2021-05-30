@@ -1,5 +1,4 @@
 # Titatic-Ground-Truth-Kaggle-Competition
-<h1> Finding the "Titanic Ground Truth" using Machine Learning</h1> 
 
 <p>This dataset has been taken from <a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a>. The adjoined task along with this dataset is to predict the survival of the passengers whose details are listed in the test.csv file. This project is a comparative classification model for accomplishing this task.</p>
 
